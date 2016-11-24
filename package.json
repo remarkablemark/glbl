@@ -1,0 +1,12 @@
+{
+  "name": "glbl",
+  "version": "0.0.0",
+  "description": "A module that exports an object reference.",
+  "author": "Mark <mark@remarkablemark.org>",
+  "keywords": [
+    "glbl",
+    "object",
+    "global"
+  ],
+  "license": "MIT"
+}
