@@ -3,10 +3,16 @@
   "version": "0.0.0",
   "description": "A module that exports an object reference.",
   "author": "Mark <mark@remarkablemark.org>",
+  "scripts": {
+    "lint": "eslint ."
+  },
   "keywords": [
     "glbl",
     "object",
     "global"
   ],
+  "devDependencies": {
+    "eslint": "^3.4.0"
+  },
   "license": "MIT"
 }
